@@ -74,6 +74,8 @@ Reboot:
 
 Well its all how it going, enjoy and stay beware everywhere, btw what news here's my isp have been upgraded some device with no telnet, nice no telnet no Rock-et!
 
+* *more command you can check on folder /bin/ /usr/bin /sbin
+
 
 ### Todos
 
