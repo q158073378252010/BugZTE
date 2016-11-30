@@ -1,6 +1,6 @@
 #  [![creatorb](https://cdn2.iconfinder.com/data/icons/software-development-glyph-black/2048/5396_-_Bug_in_Application-64.png )](https://postimg.org/image/u69xjk8nn/) ZTE F6** bug
 
-I dont want to talk to much, it isn't how to hack wifi, all about what i am explained here it just little bug on zte f6** router devices... no crack, break, hack but by telnet we rock.
+I dont want to talk to much, it isn't how to hack wifi, all about what i am explained here it just little bug on zte f6** router devices... no crack, no break, no hack but by telnet we rock.
 
 Required:
   - telnet
