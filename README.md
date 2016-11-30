@@ -9,14 +9,23 @@ Required:
 i think it can be another way to get back your lost password on gui panel of your router device.
 
 > This bug's started
-> with zte f6** default password
+
+> with zte f6xx default password
+
 > username : root
+
 > password : Zte521
+
 > you can bypass it on telnet
+
 > don't panic isn't someone cant access it
+
 > if s/he isn't connected with your wifi right ?
+
 > but can u make sure if one day no one else can access it
+
 > your wifi, your wifi, your wifi ... our wifi
+
 
 ### POC
 Open terminal using telnet to connect your gateway (assume: 192.168.1.1).
